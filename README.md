@@ -20,12 +20,20 @@ using the student fullname i was able to get the student email account
 ##### Acquire Information ####
 I clone to student it support portal use set tool kit
 <img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/71b62b4d-a716-4815-bbab-9b16a560824f" />
-use 2
+* Use 2
 <img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/4faaf1f8-81eb-4bc8-aea6-0042ad4a1c99" />
-use 5
+* Use 5
 <img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/f9b92714-74f2-4c2b-b8ae-c4c87b145211" />
-use 2
-used my ip address for the serverhost
+* Use 2
+* Used my ip address for the serverhost for the website
+* Create a pishing link and sent it to to victim email
+<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/76390f4e-38a9-40cc-8dd7-5179e60a43de" />
+* The victim fell for the pishing link and but in his information
+* <img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/12056409-7259-40e3-b46e-3fae946d8717" />
+
+
+ 
+
 
 
 
